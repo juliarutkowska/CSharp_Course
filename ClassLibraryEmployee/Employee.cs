@@ -15,5 +15,4 @@ public class Employee
     {
         DepartmentName = "Finance Department";
     }
-
 }
