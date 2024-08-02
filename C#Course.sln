@@ -2,17 +2,19 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortAssignments", "ShortAssignments\ShortAssignments.csproj", "{48FD4BDA-F230-401E-9835-52B68C1B4ADE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank.Presentation", "..\BankProject\Bank.Presentation\Bank.Presentation\Bank.Presentation.csproj", "{B0CB94D6-4D54-49AB-B629-2BE5C8893012}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank.Presentation", "..\C#Course\BankProject\Bank.Presentation\Bank.Presentation.csproj", "{B0CB94D6-4D54-49AB-B629-2BE5C8893012}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldsExample", "..\FieldsExample\FieldsExample\FieldsExample.csproj", "{24F120E8-5481-4B20-A75A-F270202ACC5B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldsExample", "..\C#Course\FieldsExample\FieldsExample.csproj", "{24F120E8-5481-4B20-A75A-F270202ACC5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryProduct", "..\FieldsExample\ClassLibraryProduct\ClassLibraryProduct.csproj", "{D2ABF7E6-F516-4C8E-8C3B-7540670FCE3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryProduct", "..\C#Course\FieldsExample\ClassLibraryProduct\ClassLibraryProduct.csproj", "{D2ABF7E6-F516-4C8E-8C3B-7540670FCE3C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignments", "Assignments", "{7153C2D2-8265-4C26-979E-D7F1205F1FAA}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ShortAssignments", "..\C#Course\ShortAssignments\ShortAssignments.csproj", "{7153C2D2-8265-4C26-979E-D7F1205F1FAA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryEmployee", "ClassLibraryEmployee\ClassLibraryEmployee.csproj", "{C7265B29-E8D8-42F9-A226-C2DB46C8F048}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeApp", "EmployeeApp\EmployeeApp.csproj", "{F5AA72AA-1675-4E9E-9560-BF5A3754B34E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParamsExample", "..\C#Course\ParamsExample\ParamsExample\ParamsExample.csproj", "{BCA7EAA5-DA22-448E-B365-3DDAD16A1F6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -44,6 +46,10 @@ Global
 		{F5AA72AA-1675-4E9E-9560-BF5A3754B34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5AA72AA-1675-4E9E-9560-BF5A3754B34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5AA72AA-1675-4E9E-9560-BF5A3754B34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA7EAA5-DA22-448E-B365-3DDAD16A1F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA7EAA5-DA22-448E-B365-3DDAD16A1F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA7EAA5-DA22-448E-B365-3DDAD16A1F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA7EAA5-DA22-448E-B365-3DDAD16A1F6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{48FD4BDA-F230-401E-9835-52B68C1B4ADE} = {7153C2D2-8265-4C26-979E-D7F1205F1FAA}
