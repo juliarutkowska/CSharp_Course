@@ -1,4 +1,4 @@
-﻿namespace FirstProjectFromCourse.Assignments;
+﻿namespace Assignments;
 
 /*
 Write a C# program to calculate "area of circle" based on the given "radius" value.

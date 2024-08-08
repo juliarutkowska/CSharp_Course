@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeApp", "EmployeeApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParamsExample", "..\C#Course\ParamsExample\ParamsExample\ParamsExample.csproj", "{BCA7EAA5-DA22-448E-B365-3DDAD16A1F6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalFunctionExample", "LocalFunctionExample\LocalFunctionExample\LocalFunctionExample.csproj", "{1F69D4E4-822F-4697-AECD-AB089DD72F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionExample", "RecursionExample\RecursionExample\RecursionExample.csproj", "{ECBC7B97-2ABB-4640-A00E-9B145DEA4710}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +54,14 @@ Global
 		{BCA7EAA5-DA22-448E-B365-3DDAD16A1F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCA7EAA5-DA22-448E-B365-3DDAD16A1F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCA7EAA5-DA22-448E-B365-3DDAD16A1F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F69D4E4-822F-4697-AECD-AB089DD72F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F69D4E4-822F-4697-AECD-AB089DD72F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F69D4E4-822F-4697-AECD-AB089DD72F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F69D4E4-822F-4697-AECD-AB089DD72F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBC7B97-2ABB-4640-A00E-9B145DEA4710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBC7B97-2ABB-4640-A00E-9B145DEA4710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBC7B97-2ABB-4640-A00E-9B145DEA4710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBC7B97-2ABB-4640-A00E-9B145DEA4710}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{48FD4BDA-F230-401E-9835-52B68C1B4ADE} = {7153C2D2-8265-4C26-979E-D7F1205F1FAA}

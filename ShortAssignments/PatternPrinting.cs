@@ -25,7 +25,7 @@ Use for loop, break and continue statements to bring the output.
 
 public class PatternPrinting
 {
-    public static void Main()
+    public static void Pattern()
     {
         for (var i = 0; i < 3; i++)
         {
