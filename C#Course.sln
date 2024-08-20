@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalFunctionExample", "Loc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionExample", "RecursionExample\RecursionExample\RecursionExample.csproj", "{ECBC7B97-2ABB-4640-A00E-9B145DEA4710}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitCasting", "TypeConversion\ExplicitCasting\ExplicitCasting.csproj", "{55E491BB-23F2-47E3-8239-C20164797034}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{ECBC7B97-2ABB-4640-A00E-9B145DEA4710}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECBC7B97-2ABB-4640-A00E-9B145DEA4710}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECBC7B97-2ABB-4640-A00E-9B145DEA4710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E491BB-23F2-47E3-8239-C20164797034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E491BB-23F2-47E3-8239-C20164797034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E491BB-23F2-47E3-8239-C20164797034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E491BB-23F2-47E3-8239-C20164797034}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{48FD4BDA-F230-401E-9835-52B68C1B4ADE} = {7153C2D2-8265-4C26-979E-D7F1205F1FAA}
